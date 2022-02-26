@@ -1,6 +1,6 @@
 # butterworth-filter
 
-An LTspice project which contains third-order Butterworth filters built both using an inductor and a current conveyor made of ideal voltage and current buffers. The scripts plot the frequency responses of both ideal designs of third-order Butterworth filters on the same graph when simulated.
+An LTspice project which contains third-order Butterworth filters built both using an inductor and a current conveyor. The scripts plot the frequency responses of both ideal designs of third-order Butterworth filters on the same graph when simulated.
 
 This project was assigned for the Computer Tools for Electrical Engineers (EE 241) course on Fall 2020-21 semester.
 
