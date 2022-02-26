@@ -13,6 +13,11 @@ This project was assigned for the Computer Tools for Electrical Engineers (EE 24
     <img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/butterworth-filter/main/Plots/plot_2.jpg" width="800">
 </p>
 
+<p align="center">
+    <img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/butterworth-filter/main/Plots/plot_1.pdf" width="400">
+    <img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/butterworth-filter/main/Plots/plot_2.pdf" width="400">
+</p>
+
 
 
 ## Author
