@@ -1,4 +1,4 @@
-# butterworth-filter
+# third-order-Butterworth-filter
 
 An LTspice project which contains third-order Butterworth filters built both using an inductor and a current conveyor. The scripts plot the frequency responses of both ideal designs of third-order Butterworth filters on the same graph when simulated.
 
